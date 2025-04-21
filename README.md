@@ -3,7 +3,7 @@
 ![Dwór dawno temu](Słonowice-pałac-Keine-Ruhrmann.jpg)
 
 [Gdzie to jest](https://maps.app.goo.gl/pCdz4rifPREEBpEn9)  
-[Histora Dworu](historia.md)  
+[Historia Dworu](historia.md)  
 <kontakt@dworslonowice.pl>  
 
 <hr>

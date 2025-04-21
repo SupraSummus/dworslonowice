@@ -5,6 +5,7 @@
 <kontakt@dworslonowice.pl>
 
 <https://maps.app.goo.gl/pCdz4rifPREEBpEn9>
+[Histora Dworu](historia.md)
 
 <ul>
   {% for post in site.posts %}

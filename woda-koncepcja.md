@@ -449,9 +449,7 @@ bo zdejmuje wszystkie sufity naraz.
 
 ## Etapowanie
 
-1. **Teraz**: szkic terenu (granice działek, spadki, rynny tylnej połaci, obiekt gospodarczy);
-   interpretacja starostwa (przydomowość + limit);
-   odkrywka koparką → rodzaj gruntu (stabilność skarp, ewentualne gruzowisko po PGR).
+1. **Teraz**: rozstrzygnąć pozycje z listy „Do ustalenia" (sekcja niżej).
 2. **Etap 1 (mały koszt, szybki efekt)**: osadnik + zbiornik dolny (rezerwuar)
    ze strefą bagienną za przelewem, pierwsze rośliny.
    Już działa retencja, podlewanie i siedlisko;
@@ -486,7 +484,8 @@ Do ustalenia:
 - Mapka/szkic: granice działek, pozycja dworu i obiektu gospodarczego,
   spadki terenu, osie widokowe z tylnych okien, stare drzewa.
 - Interpretacja starostwa: „przydomowość" oczek na działkach bez domu + limit 50 m².
-- Rodzaj gruntu z odkrywki — stabilność skarp i sposób obudowy rezerwuaru.
+- Rodzaj gruntu z odkrywki koparką — stabilność skarp, sposób obudowy rezerwuaru,
+  ewentualne gruzowisko po PGR.
 - Dojazd koparki na działki tylne (przejazd koło dworu).
 - Czy zostajemy pod 50 m² łącznie, czy idziemy w pozwolenie
   i uwalniamy skalę (decyzja przed projektem wykonawczym).

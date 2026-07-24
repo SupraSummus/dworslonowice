@@ -11,3 +11,95 @@ Przyjmujemy to leniwie:
 
 - Nie przeformatowuj istniejącego tekstu tylko po to, żeby dodać łamania.
 - Nowy tekst oraz zdania, które i tak edytujesz, zapisuj już w stylu SemBr.
+
+## Dokumenty opisują teraźniejszość; przeszłość trzyma git
+
+Dokument, który opowiada historię własnych zmian, staje się changelogiem —
+a git prowadzi lepszy: kompletny, datowany i przypięty do faktycznych diffów.
+Test dla każdego zdania o przeszłości:
+**czy zmienia ono to, co powinien zrobić czytelnik pracujący z obecnym stanem?**
+Jeśli tylko odnotowuje, że coś się wydarzyło albo kiedyś było inaczej — usuń je;
+jeśli wyjaśnia, dlaczego teraźniejszość wygląda tak, a nie inaczej —
+zostaw, ale sformułowane jako uzasadnienie w czasie teraźniejszym, nie jako wydarzenie.
+
+Historia, która zasługuje na miejsce (zawsze jako uzasadnienie obecnego stanu):
+
+- **Odrzucona alternatywa i powód odrzucenia** —
+  oszczędza następnej osobie ponownego proponowania tego samego.
+  Sekcja „Jak to się rozstrzygnęło" w [woda.md](woda.md) to wzorcowy przykład:
+  wybór padł, a odrzucone warianty stoją obok z powodami.
+- **Świadoma zmiana decyzji lub nazwy** —
+  żeby nikt nie „naprawił" jej z powrotem.
+- **Data identyfikująca zewnętrzny artefakt** —
+  uchwałę, dokument, stan prawny („stan prawny na 2026 r.") —
+  to proweniencja i zostaje.
+
+Historia, która jest balastem:
+
+- **Znaczniki „zrobione".**
+  Gdy pozycja z listy „do ustalenia" albo planu się domyka,
+  usuń ją — bez ~~przekreśleń~~ na pamiątkę.
+  Jeśli zostawia po sobie decyzję („odpadło celowo", „zostaje z rozmysłem"),
+  przenieś decyzję do sekcji, która jest jej właścicielem;
+  sama pozycja i tak znika.
+- **Narracja statusu** — „aktualizacja (2026-07): …", „już zrobione".
+  Wpisz bieżący stan wprost w zdanie, które jest właścicielem faktu.
+- **Daty, których jedynym zadaniem jest uporządkowanie edycji samego dokumentu.**
+  Taka data znaczy, że doklejono dopisek tam, gdzie należało przepisać sekcję.
+
+Słowny sygnał ostrzegawczy:
+przysłówki czasu — „jeszcze", „już", „nadal", „na razie", „wciąż", „obecnie" —
+kotwiczą zdanie w chwili pisania
+i po cichu zakładają przyszłą edycję
+(„nadal czekamy" czyta się jako „czekamy, dopóki ktoś nie zaktualizuje tego zdania").
+Pisz w zwykłym czasie teraźniejszym („czekamy na interpretację starostwa")
+albo przypnij stwierdzenie do datowanego zewnętrznego artefaktu.
+Podejrzany jest tylko sens czasowy —
+użycia logiczne („woda wciąż krąży w obiegu") są w porządku —
+więc traktuj trafienie jako sygnał do ponownego przeczytania zdania,
+nie jako automatyczny błąd.
+
+**Przepisuj w miejscu; nie doklejaj poprawek.**
+Gdy decyzja się zmienia, zmienia się sekcja, która jest jej właścicielem —
+tak, żeby dokument czytał się prawdziwie od góry do dołu.
+Sekcja „powyższe zmienia się następująco"
+zamienia dokument w serię łatek nakładanych w głowie czytelnika.
+Jedyny uprawniony wyjątek: decyzja podjęta, ale niewykonana —
+dokument naprawdę opisuje wtedy dwa stany (co jest i co będzie).
+Wtedy docelowy wariant dostaje własną sekcję nazywającą to, co zastępuje,
+każda zastępowana sekcja dostaje jednolinijkowy odnośnik w przód,
+a instrukcja scalenia jest wpisana w samą sekcję
+(„po wykonaniu wcielić do X") —
+i wykonanie tego scalenia jest częścią zmiany, która decyzję realizuje.
+
+Przyjmujemy to leniwie, jak SemBr:
+usunięcie historii pozycji jest częścią zmiany, która ją domyka,
+a edycja sekcji obejmuje wymiecenie zastanej, nieaktualnej narracji —
+ale nie przeczesuj starych sekcji, których nic nie dotyka.
+
+## Jeden właściciel każdego faktu; narrację powtarzaj swobodnie
+
+Proza może się powtarzać; fakty nie.
+Powtórzenie kontekstu, żeby dokument czytał się samodzielnie, to dobre pisarstwo —
+notki o zakresie, streszczenia „sąsiedni dokument opisuje X" są mile widziane.
+Ale każdy fakt, który może się zmienić —
+decyzja, status, wymiar, granica, stan prawny —
+ma dokładnie jedną sekcję-właściciela,
+i to tam lądują edycje.
+Powtórzenie gdzie indziej musi wskazać właściciela
+(link albo nazwa sekcji)
+i pozostać ogólniejsze od oryginału:
+nie wyliczaj drugi raz zmiennych szczegółów
+(liczb, powierzchni, stanów „ustalone/do ustalenia")
+z pełną precyzją.
+Jeśli powtórzenie jest równie precyzyjne jak właściciel,
+czytelnik nie pozna, która kopia jest aktualna —
+tak dwa dokumenty zaczynają sobie przeczyć.
+Wzorcowy przykład w tym repo:
+„Jak to się rozstrzygnęło" w [woda.md](woda.md)
+streszcza wybór ogólnie i odsyła do [woda-koncepcja.md](woda-koncepcja.md),
+gdzie mieszkają wszystkie szczegóły.
+
+Otwarte sprawy żyją w dokładnie jednej liście
+(w tym repo: „Do ustalenia" w [woda-koncepcja.md](woda-koncepcja.md)).
+Inne miejsce może nosić co najwyżej jednolinijkowy odnośnik do niej.

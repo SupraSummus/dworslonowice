@@ -66,12 +66,14 @@ Potrzeby wypisane na wstępie nie konkurują ze sobą — wzajemnie się wzmacni
 System dzieli się na dwie części o różnych rolach:
 **górna pracuje zawsze na stałym, pełnym lustrze** (krawędzie przelewowe),
 **dolna przyjmuje całą zmienność** — ulewy, susze, pobór na podlewanie.
-Górka, na której stoi dwór, daje potrzebne spadki naturalnie.
+Teren jest praktycznie płaski (sekcja o rozmieszczeniu),
+więc różnice poziomów buduje konstrukcja:
+podniesione lustro sadzawki i zagłębiony rezerwuar.
 
 ```
                 CZĘŚĆ GÓRNA — stałe lustro, reprezentacja
    ┌─────────────────────────────────────────────────────┐
-   │  sadzawka kąpielowa                ← murowana, lustro podniesione ~0,5 m,
+   │  sadzawka kąpielowa                ← murowana, lustro podniesione ~0,6 m,
    │     │                                głębokość 1,8 m, najczystsza woda
    │     ▼ przelew ostrą krawędzią
    │  staw górny                        ← rośliny, ryby, żyjątka,
@@ -111,15 +113,20 @@ Zalety tego podziału:
   a rezerwuar spokojnie gromadzi wodę z dachu na wiosnę.
 
 Koszt tej wygody: pompa musi stale podnosić wodę o różnicę wysokości
-(przy 2–3 m spadku i wolnym obiegu to wciąż dziesiątki watów, nie setki),
+(~2 m z lustra rezerwuaru do wlotu filtra;
+przy wolnym obiegu to wciąż dziesiątki watów, nie setki),
 i jest jeden zbiornik więcej do wykopania i wyłożenia folią.
+
+Bilans lustra całego systemu:
+sadzawka ~9 m² + staw górny ~20 m² + filtr ~10 m² + rezerwuar ~9 m² ≈ **48 m²** —
+celowo z marginesem pod progiem 50 m²,
+bo powierzchnię wykonaną mierzy się po obrysie lustra, nie po projekcie
+(formalna strona progu — w sekcji o formalnościach).
 
 ## Staw górny — parametry robocze
 
-- Powierzchnia: **ok. 20 m²**
-  (bilans lustra: sadzawka ~9 m² + staw górny ~20 m² + filtr ~10 m²
-  + rezerwuar ~9 m² ≈ **48 m²** — celowo z marginesem pod progiem 50 m²,
-  bo powierzchnię wykonaną mierzy się po obrysie lustra, nie po projekcie).
+- Powierzchnia: **ok. 20 m²** — największy składnik bilansu lustra
+  (sekcja o schemacie systemu).
 - Strefy: bagienna (0–20 cm) → płytka roślinna (20–60 cm) → otwarta toń (60–120 cm),
   z dołkiem **1,2–1,4 m** jako zimowiskiem ryb.
 - Lustro stałe — krawędź przelewowa do rezerwuaru;
@@ -138,17 +145,44 @@ i jest jeden zbiornik więcej do wykopania i wyłożenia folią.
   na podlewanie i dolewanie w suszę, poniżej tego strefa „martwa" dla życia w mule.
 - Brzegi dzikie, łagodne przynajmniej z jednej strony (wyjście dla płazów i jeży),
   wokół roślinność znosząca zmienny poziom (turzyce, sity, mięta nadwodna).
-- Ulewa 30 mm = 3 m³ z dachu → +30–40 cm w rezerwuarze — po to on jest;
+- Ulewa podnosi lustro o kilkadziesiąt centymetrów — po to on jest
+  (liczby w sekcji o bilansie);
   nadmiar ponad maksimum wychodzi przelewem awaryjnym do strefy bagiennej.
 - Opcjonalne wzmocnienie: **podziemna cysterna** obok (np. 5 m³) na czystą deszczówkę
   do podlewania — zero parowania i nie wlicza się w lustro wody;
-  zbiorniki na wody opadowe do 5 m³ nie wymagają formalności (zweryfikować aktualny stan).
+  zbiorniki na wody opadowe do 5 m³ nie wymagają formalności.
+
+## Osadnik i odrzut pierwszej wody
+
+Deszczówka z dachu niesie pyłki, sadzę, ptasie odchody i liście —
+najwięcej w pierwszych minutach opadu, gdy deszcz zmywa dach.
+Dlatego między rynną a rezerwuarem stoją proste urządzenia
+(osobny komplet przy każdej z dwóch zlewni — dworu i obiektu gospodarczego):
+
+- **Kosz na liście** w rynnie albo łapacz na rurze spustowej —
+  zatrzymuje grube części, zanim cokolwiek popłynie dalej.
+- **Odrzut pierwszej wody (first flush)**: pionowa rura-kolumna,
+  która napełnia się jako pierwsza i przyjmuje najbrudniejsze
+  ~0,5–1 mm opadu ze swojej zlewni
+  (dach dworu → 50–100 l, dach gospodarczy → 25–50 l);
+  gdy kolumna jest pełna, reszta opadu płynie górą do osadnika.
+  Kolumna opróżnia się sama przez mały otwór kroplowy —
+  zero ruchomych części i sezonowych czynności.
+- **Osadnik**: studzienka, w której woda zwalnia i zostawia piasek,
+  zanim wpadnie do rezerwuaru.
+
+Rury ułożone ze spadkiem, bez syfonów —
+zimą nie stoi w nich woda, więc mróz nie ma czego rozerwać
+(ta sama zasada co w sekcji „Zima").
+Czyszczenie kosza i osadnika — sezonowo, w wolnej chwili;
+to czynność z gatunku „poprawia jakość wody, ale nie jest krytyczna"
+(sekcja „Zima").
 
 ## Uszczelnienie (całość)
 
 Wszystkie zbiorniki na **folii EPDM** (trwalsza od PVC, ~50 lat).
-Decyzja przesądzona: działka leży na wzniesieniu,
-woda gruntowa szacunkowo głębiej niż 5 m,
+Decyzja przesądzona: woda gruntowa leży szacunkowo głębiej niż 5 m
+(piwnica dworu schodzi ~1,5 m w grunt i nie nosi śladów wody gruntowej),
 więc naturalne dno nie utrzyma wody — system żyje wyłącznie z deszczówki.
 Plus tej sytuacji: wykopy będą suche (bez wyporu i odwadniania),
 a prawnie całość to „oczka wodne" — szczegóły w formalnościach.
@@ -191,8 +225,9 @@ Dzięki temu:
 
 Sadzawka dostaje zawsze wodę prosto po filtrze — najczystszą w całym systemie,
 dokładnie tam, gdzie się człowiek zanurza.
-Działka na wzniesieniu pomaga: różnice terenu można wykorzystać,
-żeby kaskada schodziła zgodnie z gruntem.
+Na płaskim terenie to podniesione lustro robi cały spadek kaskady:
+od krawędzi sadzawki woda schodzi grawitacyjnie do stawu
+i dalej do zagłębionego rezerwuaru.
 
 Murowana krawędź może się też pojawić na **jednym brzegu stawu górnego**
 (od strony dworu/tarasu — kamień, linia prosta),
@@ -213,6 +248,10 @@ Parametry robocze:
 
 - Osobna, płytka komora (10–40 cm wody) wypełniona **płukanym żwirem 8–16 mm**,
   obsadzona gęsto roślinami — woda przepływa przez złoże, nie po powierzchni.
+  Na płaskim terenie komora stoi na nasypie,
+  z lustrem powyżej krawędzi sadzawki —
+  inaczej strumyk nie miałby spadku;
+  nasyp robi urobek z wykopów.
 - Wielkość: w klasycznych stawach kąpielowych strefa filtracyjna
   to 30–50% powierzchni lustra;
   przy naszym profilu użytkowania (kąpiel okazjonalna, mała obsada ryb)
@@ -233,11 +272,9 @@ W komorze uszczelnionej lepsze są:
 Jeśli trzcina ma być — to w strefie rozsączającej za przelewem (naturalny grunt, bez folii),
 gdzie może rosnąć do woli.
 
-Filtr wliczyć w bilans powierzchni:
-sadzawka + staw górny + filtr + rezerwuar razem ≤ 50 m² lustra wody,
-żeby zostać pod progiem formalnym
-(złoże żwirowe bez otwartego lustra można argumentować poza limitem,
-ale ostrożniej liczyć je do środka).
+Filtr wliczyć w bilans lustra (sekcja o schemacie systemu):
+złoże żwirowe bez otwartego lustra można argumentować poza progiem formalnym,
+ale ostrożniej liczyć je do środka.
 
 ## Zima — odporność na mróz bez żadnej obsługi
 
@@ -321,16 +358,13 @@ mieści się w amplitudzie, nadmiar zrzuca przelew awaryjny do strefy bagiennej.
 
 Wniosek: **150 m² zlewni daje bilans z komfortem** —
 dlatego dach gospodarczy podpinamy od razu, nie „kiedyś"
-(stoi na tej samej działce co stawy, rura będzie krótka;
-przyda się drugi mały osadnik przy jego rynnie).
+(stoi na działkach tylnych tuż przy systemie, rura będzie krótka;
+komplet osadnika — w sekcji o osadniku i odrzucie pierwszej wody).
 Sama tylna połać dworu (100 m²) też by system utrzymała,
 ale latem „na styk" i bez zapasu na podlewanie.
 Nie dolewać kranówki poza sytuacją awaryjną:
 twarda woda wodociągowa wnosi minerały, które napędzają glony
 i psują główny atut zasilania deszczówką.
-
-Warto sprawdzić dofinansowanie „Moja Woda" (WFOŚiGW) —
-program obejmował oczka retencyjne, kolejne nabory bywają ogłaszane.
 
 ## Chłodzenie budynku — co zrobić teraz
 
@@ -365,13 +399,41 @@ Decyzja techniczna dziś nie jest potrzebna. Wystarczy:
   a przy okazji ryby zjadają skrzek płazów.
   Ślimaki (zatoczki, błotniarki) przyjdą same z roślinami, podobnie ważki i traszki.
 
+## Bezpieczeństwo
+
+Woda z głębią do zanurzenia przy domu wymaga zwykłych zasad:
+dzieci przy wodzie pod okiem dorosłego, lód zimą traktowany jako nienośny.
+Konstrukcja pomaga pasywnie, w duchu całego projektu:
+
+- Murek sadzawki działa jak niska bariera —
+  do jedynego miejsca z pionowymi ścianami i pełną głębią
+  nie da się wejść przypadkiem, trzeba się wspiąć;
+  schodki/drabinka w środku to stałe, pewne wyjście.
+- Staw górny i rezerwuar mają łagodne skarpy i płytkie strefy przy brzegu:
+  kto się poślizgnie, staje w wodzie po kolana, zamiast wpadać na głębię —
+  te same łagodne brzegi, które i tak są potrzebne płazom,
+  są jednocześnie wyjściem z wody dla człowieka.
+
 ## Rozmieszczenie w terenie
 
-Sytuacja: trzy działki po ~1000 m².
-Na frontowej stoi dwór (zajmuje znaczną część — brak miejsca na staw),
-za nią dwie działki niezabudowane (na jednej mały obiekt gospodarczy),
+Sytuacja: trzy działki w obrębie Słonowice —
+**285/5** (~1040 m², frontowa, od drogi) z dworem,
+który zajmuje znaczną część (brak miejsca na staw),
+oraz niezabudowane **285/7** (~950 m², za dworem od północnego wschodu)
+i **285/6** (~660 m², za dworem od południowego wschodu,
+z małym obiektem gospodarczym),
 dostępne tylko przez działkę z dworem.
-Całość ~3000 m² w jednych rękach, funkcjonujące jako jedna posiadłość.
+Całość ~2650 m² w jednych rękach, funkcjonująca jako jedna posiadłość.
+
+![Szkic sytuacyjny działek 285/5, 285/6 i 285/7](dokumenty/woda-szkic-sytuacyjny.svg)
+
+Teren jest praktycznie płaski:
+161,0–161,7 m n.p.m. w obrębie działek, z lekkim spadkiem ku zachodowi
+(granice, budynki i wysokości na szkicu — ULDK i NMT GUGiK, stan na 2026).
+Naturalnych spadków pod kaskadę nie ma —
+różnice poziomów buduje konstrukcja
+(podniesione lustro sadzawki, zagłębiony rezerwuar).
+Wschodnie części działek tylnych są zadrzewione.
 
 Wnioski dla układu:
 
@@ -383,19 +445,16 @@ Wnioski dla układu:
 - **Zlewnia: tylna połać dachu dworu** — rynny z tyłu budynku
   mają najkrótszą drogę do rezerwuaru (rura po/pod ziemią przez granicę działek,
   wszystko na własnym terenie).
-- **Dach obiektu gospodarczego (9×5 m, ~50 m² z okapami) to druga zlewnia,
-  podpinana od razu** — stoi na tej samej działce co stawy,
-  więc rura jest krótka, a jego 50 m² zamienia letni bilans „na styk"
+- **Dach obiektu gospodarczego to druga zlewnia, podpinana od razu** —
+  stoi na działce 285/6 tuż przy systemie, więc rura jest krótka,
+  a jego powierzchnia zamienia letni bilans „na styk"
   w komfortowy zapas na podlewanie (liczby w sekcji o bilansie).
 - Metasekwoja i cypryśnik na końcu układu (strefa bagienna):
   docelowo to drzewa 20–30 m, więc dobrze, że wychodzą daleko
-  od fundamentów dworu i od folii zbiorników;
-  sprawdzić tylko odległość od obiektu gospodarczego i granic z sąsiadami spoza posiadłości.
+  od fundamentów dworu i od folii zbiorników.
 - Praktyczny plus podniesionego lustra sadzawki:
   urobek z wykopów zostaje na miejscu jako podsypka/skarpa pod murek —
   mniej wywożenia ziemi przez wąski przejazd koło dworu.
-  W ogóle dojazd sprzętu na tylne działki (przez dworską) warto sprawdzić
-  przed zamówieniem koparki.
 
 ## Formalności dla tego wariantu
 
@@ -409,14 +468,12 @@ Wnioski dla układu:
 - Ewidencja zabytków formalnie nie gra
   (brak pozwolenia = brak uzgodnienia z konserwatorem),
   ale grzecznościowa rozmowa z WUOZ nie zaszkodzi, skoro to teren zespołu.
-- Przepisy o oczkach i basenach bywały nowelizowane —
-  aktualny stan prawny potwierdzić przy okazji interpretacji w starostwie.
 
 ### Co mówi MPZP
 
 Teren jest objęty miejscowym planem zagospodarowania przestrzennego
 ([uchwała nr XXXIV/203/2022 Rady Gminy Brzeżno, obręb Słonowice](dokumenty/mpzp-slonowice-2022.pdf)).
-Nasze działki to teren elementarny **MW.1** (~0,29 ha,
+Nasze działki leżą w terenie elementarnym **MW.1** (~0,29 ha,
 zabudowa mieszkaniowa wielorodzinna — dwór).
 Dla koncepcji wodnej plan jest **korzystny**:
 
@@ -444,8 +501,8 @@ Dla koncepcji wodnej plan jest **korzystny**:
 
 MPZP nie zmienia kwalifikacji z Prawa budowlanego (limit 50 m² i „przydomowość"
 rozstrzyga się tam) — ale zdejmuje ryzyko, że plan czegoś zakazuje.
-Interpretacja starostwa nadal wskazana, już tylko w jednej sprawie:
-przydomowość oczek na działkach bez budynku mieszkalnego.
+Interpretacja starostwa pozostaje wskazana
+(zakres pytań — w liście „Do ustalenia").
 
 ### Limit 50 m² — na co właściwie?
 
@@ -489,12 +546,31 @@ bo zdejmuje wszystkie sufity naraz.
    pompa z rurociągiem, pomost, peszel do budynku.
 4. **Etap 3 (kiedyś)**: pętla chłodząca do budynku.
 
+Rzędy wielkości kosztów (szacunek na ceny 2026, prace zlecone —
+do planowania, nie zamiast ofert wykonawców):
+
+- Etap 1: **~10–20 tys. zł**
+  (koparka, folia EPDM z geowłókniną, studzienka osadnika, rury, rośliny).
+- Etap 2: **~50–90 tys. zł** —
+  większość to żelbetowa sadzawka licowana kamieniem;
+  staw górny, filtr, pompa i pomost to łącznie mniejsza część.
+- Etap 3: **~10–20 tys. zł** (wymiennik, klimakonwektor, orurowanie w peszlu).
+
 ## Do ustalenia
 
-- Mapka/szkic: granice działek, pozycja dworu i obiektu gospodarczego,
-  spadki terenu, osie widokowe z tylnych okien, stare drzewa.
-- Interpretacja starostwa: „przydomowość" oczek na działkach bez domu + limit 50 m².
-- Rodzaj gruntu z odkrywki koparką — stabilność skarp, sposób obudowy rezerwuaru,
+- Obejście w terenie ze szkicem sytuacyjnym:
+  które zadrzewienia i stare drzewa zostają,
+  osie widokowe z konkretnych okien i tarasu,
+  docelowe pozycje zbiorników.
+- Interpretacja starostwa: „przydomowość" oczek na działkach bez domu, limit 50 m²
+  i aktualny stan przepisów o oczkach, basenach
+  i zbiornikach na deszczówkę do 5 m³ (bywały nowelizowane).
+- Dofinansowanie „Moja Woda" (WFOŚiGW) —
+  program obejmował oczka retencyjne, kolejne nabory bywają ogłaszane.
+- Odległość metasekwoi i cypryśnika od obiektu gospodarczego
+  i od granic z sąsiadami spoza posiadłości.
+- Rodzaj gruntu i poziom wody gruntowej z odkrywki koparką —
+  stabilność skarp, sposób obudowy rezerwuaru,
   ewentualne gruzowisko po PGR.
 - Dojazd koparki na działki tylne (przejazd koło dworu).
 - Czy zostajemy pod 50 m² łącznie, czy idziemy w pozwolenie

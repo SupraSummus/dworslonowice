@@ -26,7 +26,7 @@ Historia, która zasługuje na miejsce (zawsze jako uzasadnienie obecnego stanu)
 
 - **Odrzucona alternatywa i powód odrzucenia** —
   oszczędza następnej osobie ponownego proponowania tego samego.
-  Sekcja „Jak to się rozstrzygnęło" w [woda.md](woda.md) to wzorcowy przykład:
+  Sekcja „Odrzucone warianty" w [woda.md](woda.md) to wzorcowy przykład:
   wybór padł, a odrzucone warianty stoją obok z powodami.
 - **Świadoma zmiana decyzji lub nazwy** —
   żeby nikt nie „naprawił" jej z powrotem.
@@ -96,10 +96,41 @@ Jeśli powtórzenie jest równie precyzyjne jak właściciel,
 czytelnik nie pozna, która kopia jest aktualna —
 tak dwa dokumenty zaczynają sobie przeczyć.
 Wzorcowy przykład w tym repo:
-„Jak to się rozstrzygnęło" w [woda.md](woda.md)
-streszcza wybór ogólnie i odsyła do [woda-koncepcja.md](woda-koncepcja.md),
-gdzie mieszkają wszystkie szczegóły.
+„Odrzucone warianty" w [woda.md](woda.md)
+podaje powód odrzucenia stawu naturalnego ogólnie („woda gruntowa za głęboko")
+i odsyła do sekcji o uszczelnieniu,
+która jest właścicielem szczegółów.
 
 Otwarte sprawy żyją w dokładnie jednej liście
-(w tym repo: „Do ustalenia" w [woda-koncepcja.md](woda-koncepcja.md)).
+(w tym repo: „Do ustalenia" w [woda.md](woda.md)).
 Inne miejsce może nosić co najwyżej jednolinijkowy odnośnik do niej.
+
+## Review zmian
+
+Na prośbę o review przejrzyj zmiany z bieżącej sesji świeżym okiem,
+odpowiedz na pytania poniżej,
+a poprawki, które z odpowiedzi wynikają, od razu wprowadź —
+małe refaktory realizuj, większe tylko odnotuj, zamiast rozgrzebywać.
+
+- **Kierunek**: jaki konkretny problem znika dzięki tej zmianie?
+  Zmiana, która tylko przesuwa tekst, nie ma kierunku.
+- **Elegancja**: rozwiązanie proste i domknięte —
+  bez sekcji-sierot, wiszących odwołań („te potrzeby" bez sąsiada)
+  i połowicznych przenosin.
+- **Spójność odwołań** (odpowiednik testów):
+  grep za nazwami usuniętych i przemianowanych plików oraz sekcji;
+  sprawdź linki w README i sąsiednich dokumentach
+  oraz czy przykłady cytowane w tym pliku nadal istnieją.
+  Sprawdzaj to, co zmiana mogła zepsuć —
+  rytualne odhaczanie wszystkiego nie ma wartości.
+- **Reguły tego pliku zastosowane do samej zmiany**:
+  czas teraźniejszy, jeden właściciel faktu, brak znaczników „zrobione",
+  jedna lista spraw otwartych, SemBr w nowym tekście.
+- **Uczciwość**: czy dokument czyta się prawdziwie od góry do dołu
+  i nie zmyli kolejnej osoby?
+  Jeśli zmiana celowo oddaje jakąś informację historii gita,
+  nazwij ją w opisie zmiany, zamiast udawać, że nic nie zniknęło.
+- **Szum**: meta-komentarze, nawiasy i odnośniki tylko tam,
+  gdzie niosą treść.
+- **Werdykt**: pchać dalej, domknąć czy wycofać — z uzasadnieniem.
+  Kolejne zmiany bez problemu, który je napędza, to mieszanie w tekście.

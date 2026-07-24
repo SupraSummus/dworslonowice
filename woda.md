@@ -2,7 +2,8 @@
 
 Potrzeby, które ta koncepcja realizuje:
 estetyka z wyraźną, murowaną granicą wody;
-bioróżnorodność (żyjątka, rośliny wodne i bagienne, w tym metasekwoja i cypryśnik błotny);
+bioróżnorodność (żyjątka, rośliny wodne i bagienne,
+wilgociolubne drzewa: metasekwoja i cypryśnik błotny);
 okazjonalna kąpiel „na pełne zanurzenie";
 retencja deszczówki z dachów do podlewania;
 w przyszłości chłodzenie budynku;
@@ -55,8 +56,10 @@ Potrzeby wypisane na wstępie nie konkurują ze sobą — wzajemnie się wzmacni
 - Głębokie strefy (sadzawka do zanurzenia, dołek w stawie, rezerwuar) to jednocześnie
   zimowisko dla ryb, stabilny termicznie zapas wody na suszę
   i chłodny rezerwuar pod przyszłą klimatyzację.
-- Strefa bagienna przy przelewie to naturalne siedlisko
-  dla cypryśnika błotnego i metasekwoi — i odbiornik nadmiaru wody po ulewie.
+- Przelew na łąkę rozsączającą jest jednocześnie odbiornikiem nadmiaru wody po ulewie
+  i najwilgotniejszym miejscem na działce —
+  czyli miejscem dla metasekwoi i cypryśnika
+  (ile tej wilgoci realnie jest — sekcja o łące rozsączającej).
 - Wahania poziomu (nieuniknione przy retencji) psułyby murowane krawędzie wizualnie —
   więc w całości spychamy je do dzikiego rezerwuaru,
   gdzie zmienna linia wody jest cechą krajobrazu i atutem siedliskowym.
@@ -90,7 +93,8 @@ podniesione lustro sadzawki i zagłębiony rezerwuar.
    │     │ pompa (sezonowo) ──▶ filtr hydrofitowy ──▶ strumykiem
    │     │                                            do sadzawki
    │     ▼ przelew awaryjny
-   │  strefa bagienna / łąka rozsączająca   ← tu metasekwoja i cypryśnik
+   │  łąka rozsączająca                 ← nadwyżka wsiąka w grunt,
+   │                                      tu metasekwoja i cypryśnik
    └─────────────────────────────────────────
 ```
 
@@ -129,6 +133,9 @@ bo powierzchnię wykonaną mierzy się po obrysie lustra, nie po projekcie
   (sekcja o schemacie systemu).
 - Strefy: bagienna (0–20 cm) → płytka roślinna (20–60 cm) → otwarta toń (60–120 cm),
   z dołkiem **1,2–1,4 m** jako zimowiskiem ryb.
+  Strefa bagienna na stałym lustrze to jedyne trwałe siedlisko bagienne w systemie —
+  na gruncie za przelewem takie nie powstaje
+  (dlaczego — sekcja o łące rozsączającej).
 - Lustro stałe — krawędź przelewowa do rezerwuaru;
   to tu mieszka większość roślin wodnych i ryby.
 - Głębia kąpielowa 1,7–1,9 m jest w **murowanej sadzawce** (sekcja niżej);
@@ -147,10 +154,56 @@ bo powierzchnię wykonaną mierzy się po obrysie lustra, nie po projekcie
   wokół roślinność znosząca zmienny poziom (turzyce, sity, mięta nadwodna).
 - Ulewa podnosi lustro o kilkadziesiąt centymetrów — po to on jest
   (liczby w sekcji o bilansie);
-  nadmiar ponad maksimum wychodzi przelewem awaryjnym do strefy bagiennej.
+  nadmiar ponad maksimum wychodzi przelewem awaryjnym na łąkę rozsączającą
+  (sekcja niżej).
 - Opcjonalne wzmocnienie: **podziemna cysterna** obok (np. 5 m³) na czystą deszczówkę
   do podlewania — zero parowania i nie wlicza się w lustro wody;
   zbiorniki na wody opadowe do 5 m³ nie wymagają formalności.
+
+## Łąka rozsączająca — co robi nadwyżka wody
+
+Za przelewem awaryjnym rezerwuaru nadwyżka wychodzi na naturalny grunt, bez folii.
+To **łąka rozsączająca, nie bagno**: sama woda z przelewu bagna nie zrobi,
+bo dopływu jest wielokrotnie za mało w stosunku do chłonności gruntu:
+
+- Nadwyżka bilansu (liczby w sekcji o bilansie) rozkłada się
+  na półrocze październik–kwiecień, czyli średnio **~0,3 m³/dobę** —
+  i to nie strumieniem, a impulsami:
+  10 mm deszczu daje ~1,5 m³ z dachów w godzinę-dwie, potem nic przez dni.
+- Nawet grunt słabo przepuszczalny (glina piaszczysta) przyjmuje rzędu 80 mm/dobę,
+  czyli ~1,7 m³/dobę na 20 m² rozsączania — kilka razy więcej, niż dopływa;
+  na piasku wielokrotnie więcej.
+- Woda gruntowa leży głębiej niż 5 m (sekcja o uszczelnieniu),
+  więc nic nie podpiera poziomu od dołu — po impulsie grunt po prostu wysycha.
+
+Realny obraz: na piasku woda po ulewie znika w godziny,
+na glinie piaszczystej stoi dzień lub dwa,
+w roztopy i wczesną wiosną jest tam wilgotno,
+a przez większość roku to zwykła łąka, tylko wilgotniejsza niż reszta terenu.
+Tyle metasekwoi i cypryśnikowi wystarcza (sekcja o roślinach) —
+i tak właśnie trzeba to miejsce traktować, planując nasadzenia.
+
+Jest jedno „ale", które rozstrzyga odkrywka koparką (lista „Do ustalenia"):
+**pod zwartą gliną zwałową albo iłem** ta sama ulewa schodzi tygodniami,
+i wtedy sezonowo mokre zaniżenie naprawdę powstaje.
+Mokro robi wówczas nieprzepuszczalne podłoże, nie bilans dopływu —
+więc dopóki gruntu nie znamy, planujemy łąkę,
+a ewentualne bagno traktujemy jako prezent od geologii.
+
+**Uszczelniona niecka bagienna** (folia z podłożem, dolewana pompą)
+dałaby bagno niezależnie od gruntu, ale odpada:
+podłoże bez otwartego lustra ostrożniej liczyć do progu 50 m²
+(ta sama wątpliwość co przy złożu filtra — sekcja o filtrze hydrofitowym),
+drzewa i tak muszą rosnąć poza folią (korzenie),
+a płytka woda paruje w systemie najszybciej —
+latem trzeba by ją dolewać z rezerwuaru,
+konkurencyjnie do sadzawki i podlewania.
+Trwałe siedlisko bagienne mamy w strefie bagiennej stawu górnego.
+
+Wielkość i miejsce rozsączania to kwestia terenowa, nie obliczeniowa:
+20–40 m² łagodnego zaniżenia wystarcza z zapasem,
+byle nadwyżka rozchodziła się po własnej działce
+(strona formalna — w sekcji o formalnościach).
 
 ## Osadnik i odrzut pierwszej wody
 
@@ -269,8 +322,10 @@ trzcina pospolita filtruje znakomicie, ale jest bardzo ekspansywna,
 a jej twarde kłącza potrafią **przebić folię**.
 W komorze uszczelnionej lepsze są:
 **oczeret jeziorny, pałka wąskolistna (w ograniczeniu), manna mielec, mozga, kosaćce, sity, tatarak**.
-Jeśli trzcina ma być — to w strefie rozsączającej za przelewem (naturalny grunt, bez folii),
-gdzie może rosnąć do woli.
+Jeśli trzcina ma być — to na łące rozsączającej za przelewem
+(naturalny grunt, bez folii, więc kłącza nie mają czego przebić);
+przy wilgotności okresowej i tak nie rozejdzie się tak szeroko,
+jak na stałym podtopieniu.
 
 Filtr wliczyć w bilans lustra (sekcja o schemacie systemu):
 złoże żwirowe bez otwartego lustra można argumentować poza progiem formalnym,
@@ -333,9 +388,9 @@ Rozchody (rocznie):
   średnio ~0,7 m słupa wody → **~35 m³/rok**, prawie w całości maj–wrzesień.
 
 **Saldo: ok. +65 m³/rok** — system domyka się z dużym zapasem,
-a nadwyżka (głównie październik–kwiecień) wychodzi przelewem do strefy bagiennej,
-która dzięki temu będzie zimą i wiosną naprawdę mokra —
-dokładnie to, co lubią cypryśnik i metasekwoja.
+a nadwyżka (głównie październik–kwiecień) wychodzi przelewem
+na łąkę rozsączającą i wsiąka w grunt
+(co to znaczy dla wilgotności tego miejsca — sekcja o łące rozsączającej).
 
 Test suszy (najgorszy scenariusz, zero dopływu):
 
@@ -354,7 +409,7 @@ Test suszy (najgorszy scenariusz, zero dopływu):
   rośliny i ryby w stawie górnym mają wtedy jeszcze wielotygodniowy zapas głębokości.
 
 Ulewa 30 mm: 4,5 m³ z dachów w godzinę-dwie → +45–55 cm w rezerwuarze —
-mieści się w amplitudzie, nadmiar zrzuca przelew awaryjny do strefy bagiennej.
+mieści się w amplitudzie, nadmiar zrzuca przelew awaryjny na łąkę rozsączającą.
 
 Wniosek: **150 m² zlewni daje bilans z komfortem** —
 dlatego dach gospodarczy podpinamy od razu, nie „kiedyś"
@@ -385,14 +440,18 @@ Decyzja techniczna dziś nie jest potrzebna. Wystarczy:
 ## Rośliny i żyjątka
 
 - **Metasekwoja chińska i cypryśnik błotny**: oba mrozoodporne na Pomorzu Zachodnim,
-  oba docelowo to drzewa 20–30 m — sadzić w strefie bagiennej/rozsączającej,
+  oba docelowo to drzewa 20–30 m — sadzić na łące rozsączającej,
   **poza folią** (korzenie!), min. kilka metrów od uszczelnienia.
-  Różnica między nimi: cypryśnik zniesie okresowe zalanie i stojącą wodę,
-  metasekwoja chce wilgotno, ale bez stagnacji —
-  więc cypryśnik bliżej przelewu, metasekwoja na skraju strefy.
-  Cypryśnik z czasem wypuści nad wodą charakterystyczne pneumatofory — duża ozdoba.
+  Oba rosną na zwykłej, wilgotnej glebie ogrodowej,
+  więc okresowa wilgotność łąki im wystarcza (sekcja o łące rozsączającej);
+  cypryśnik jako odporniejszy na zalanie idzie bliżej przelewu,
+  metasekwoja dalej, gdzie woda nigdy nie stagnuje.
+  W suszy to one mają pierwszeństwo w podlewaniu z rezerwuaru
+  (budżet wody — w sekcji o bilansie).
+  Pneumatoforów nie będzie — cypryśnik wypuszcza je, stojąc w wodzie na stałe.
   Uwaga: oba zrzucają igły — nie sadzić od strony nawietrznej stawu.
-- Strefa bagienna: kosaćce, krwawnica, knieć błotna, turzyce, pałka wąskolistna (w pojemniku!).
+- Strefa bagienna stawu górnego: kosaćce, krwawnica, knieć błotna, turzyce,
+  pałka wąskolistna (w pojemniku!).
 - Toń: grążel/grzybienie, rogatek jako natleniacz.
 - **Ryby: mało i drobne** — słonecznica, kiełb, ewentualnie liny.
   Duża obsada rybna = nawożenie wody = glony,
@@ -441,7 +500,7 @@ Wnioski dla układu:
   układa się naturalnie wzdłuż osi od dworu w głąb:
   sadzawka murowana tuż za granicą działki dworskiej,
   w widoku z tylnych okien/tarasu (murowany, reprezentacyjny front systemu),
-  za nią staw górny, dalej rezerwuar, na końcu strefa bagienna z drzewami.
+  za nią staw górny, dalej rezerwuar, na końcu łąka rozsączająca z drzewami.
 - **Zlewnia: tylna połać dachu dworu** — rynny z tyłu budynku
   mają najkrótszą drogę do rezerwuaru (rura po/pod ziemią przez granicę działek,
   wszystko na własnym terenie).
@@ -449,7 +508,7 @@ Wnioski dla układu:
   stoi na działce 285/6 tuż przy systemie, więc rura jest krótka,
   a jego powierzchnia zamienia letni bilans „na styk"
   w komfortowy zapas na podlewanie (liczby w sekcji o bilansie).
-- Metasekwoja i cypryśnik na końcu układu (strefa bagienna):
+- Metasekwoja i cypryśnik na końcu układu (łąka rozsączająca):
   docelowo to drzewa 20–30 m, więc dobrze, że wychodzą daleko
   od fundamentów dworu i od folii zbiorników.
 - Praktyczny plus podniesionego lustra sadzawki:
@@ -481,7 +540,8 @@ Dla koncepcji wodnej plan jest **korzystny**:
   opadowych i roztopowych" oraz „wykorzystanie wód opadowych do celów gospodarczych"** —
   czyli dokładnie nasz system retencyjny, czarno na białym.
 - Odprowadzenie wód opadowych powierzchniowo w grunt jest na terenach mieszkaniowych
-  dopuszczone (limit: chłonność gruntu) — strefa rozsączająca jest zgodna z planem.
+  dopuszczone (limit: chłonność gruntu) — łąka rozsączająca jest zgodna z planem,
+  a chłonność mamy z dużym zapasem nad dopływem (sekcja o łące rozsączającej).
 - Wymóg min. **50% powierzchni biologicznie czynnej** na działce —
   stawy i zieleń tylko pomagają go spełnić.
 - Teren leży w **strefie „B" ochrony konserwatorskiej**:
@@ -539,7 +599,7 @@ bo zdejmuje wszystkie sufity naraz.
 
 1. **Teraz**: rozstrzygnąć pozycje z listy „Do ustalenia" (sekcja niżej).
 2. **Etap 1 (mały koszt, szybki efekt)**: osadnik + zbiornik dolny (rezerwuar)
-   ze strefą bagienną za przelewem, pierwsze rośliny.
+   z łąką rozsączającą za przelewem, pierwsze rośliny.
    Już działa retencja, podlewanie i siedlisko;
    można sadzić metasekwoję i cypryśnika (im wcześniej, tym lepiej — to drzewa na dekady).
 3. **Etap 2**: filtr hydrofitowy, staw górny, sadzawka murowana,
@@ -571,6 +631,7 @@ do planowania, nie zamiast ofert wykonawców):
   i od granic z sąsiadami spoza posiadłości.
 - Rodzaj gruntu i poziom wody gruntowej z odkrywki koparką —
   stabilność skarp, sposób obudowy rezerwuaru,
+  chłonność pod rozsączanie (jak długo po ulewie woda tam stoi),
   ewentualne gruzowisko po PGR.
 - Dojazd koparki na działki tylne (przejazd koło dworu).
 - Czy zostajemy pod 50 m² łącznie, czy idziemy w pozwolenie

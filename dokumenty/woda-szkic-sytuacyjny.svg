@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 852 980" font-family="Georgia, serif">
 <rect width="852" height="980" fill="#fbf9f4"/>
 <clipPath id="map"><rect x="20" y="20" width="812" height="812"/></clipPath>
-<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f6392"/></marker></defs>
 <g clip-path="url(#map)">
 <path d="M-307.0,513.9 L205.8,798.6 L159.2,886.3 L769.5,1238.2 L891.0,968.6 L925.2,907.5 L1294.9,246.2 L1325.6,181.9 L1089.2,63.9 L958.7,270.7 L506.0,21.1 L408.9,204.0 L659.1,343.4 L574.1,532.8 L603.2,548.5 L509.4,693.1 L343.5,582.1 L248.0,517.8 L189.6,353.7 L-135.0,163.2 L-203.3,298.0 L-307.0,513.9 Z" fill="#efece3" stroke="#b8b2a3" stroke-width="1"/>
 <path d="M506.0,21.1 L59.7,-224.9 L-119.2,131.5 L209.2,320.9 L359.5,297.1 L408.9,204.0 L506.0,21.1 Z" fill="#efece3" stroke="#b8b2a3" stroke-width="1"/>
@@ -23,16 +22,6 @@
 <path d="M312.5,425.6 L325.6,433.1 L292.1,485.2 L312.1,498.4 L303.4,511.6 L305.0,527.5 L318.2,536.3 L334.1,531.2 L343.0,518.3 L366.3,533.3 L452.9,401.6 L426.5,384.4 L435.9,370.9 L419.0,360.0 L409.1,373.6 L378.4,353.3 L344.7,404.6 L332.1,396.0 L312.5,425.6 Z" fill="#9c4a38" stroke="#5f2d22" stroke-width="1.5"/>
 <path d="M484.3,655.5 L512.8,675.3 L548.0,622.5 L519.4,602.6 L484.3,655.5 Z" fill="#a9705d" stroke="#5f2d22" stroke-width="1.5"/>
 <path d="M-92.0,146.0 L90.0,272.0 L216.0,356.0 L279.0,405.0" fill="none" stroke="#c9b99a" stroke-width="7" opacity="0.8"/>
-<rect x="469.8" y="417.2" width="17.5" height="24.5" transform="rotate(28 478.5 429.5)" fill="#bcd8ea" fill-opacity="0.55" stroke="#1f6392" stroke-width="1.6" stroke-dasharray="6 4"/>
-<ellipse cx="528" cy="472" rx="23" ry="15" transform="rotate(28 528 472)" fill="#bcd8ea" fill-opacity="0.55" stroke="#1f6392" stroke-width="1.6" stroke-dasharray="6 4"/>
-<rect x="478.5" y="511.8" width="28.0" height="17.5" transform="rotate(28 492.5 520.5)" fill="#bcd8ea" fill-opacity="0.55" stroke="#1f6392" stroke-width="1.6" stroke-dasharray="6 4"/>
-<ellipse cx="587" cy="454" rx="13" ry="11" fill="#bcd8ea" fill-opacity="0.55" stroke="#1f6392" stroke-width="1.6" stroke-dasharray="6 4"/>
-<path d="M601.0,391.0 L636.0,370.0 L629.0,412.0 L601.0,433.0 Z" fill="#9ec49a" fill-opacity="0.5" stroke="#4a7d46" stroke-width="1.4" stroke-dasharray="5 4"/>
-<path d="M405.0,370.0 L510.0,349.0 L573.0,433.0" fill="none" stroke="#1f6392" stroke-width="1.3" marker-end="url(#ah)" stroke-dasharray="3 3"/>
-<path d="M538.0,636.0 L566.0,552.0 L580.0,482.0" fill="none" stroke="#1f6392" stroke-width="1.3" marker-end="url(#ah)" stroke-dasharray="3 3"/>
-<path d="M573.0,475.0 L517.0,517.0" fill="none" stroke="#1f6392" stroke-width="1.3" marker-end="url(#ah)"/>
-<path d="M489.0,503.0 L479.2,443.5" fill="none" stroke="#1f6392" stroke-width="1.3" marker-end="url(#ah)"/>
-<path d="M391.0,440.0 L622.0,384.0" fill="none" stroke="#8a6d3b" stroke-width="1" stroke-dasharray="2 5"/>
 </g>
 <text x="251" y="384" font-size="15" fill="#6b5b40" text-anchor="middle" >285/5</text>
 <text x="251" y="412" font-size="10" fill="#8a7a5f" text-anchor="middle" >(1043 m²)</text>
@@ -45,12 +34,6 @@
 <text x="426" y="790" font-size="11" fill="#948a76" text-anchor="middle" >285/4</text>
 <text x="349" y="475" font-size="13" fill="#fff" text-anchor="middle" font-weight="bold" transform="rotate(-34 349 475)">dwór</text>
 <text x="559" y="664" font-size="9" fill="#5f2d22" text-anchor="start" >ob. gosp.</text>
-<text x="472" y="396" font-size="9" fill="#1f6392" text-anchor="middle" >sadzawka</text>
-<text x="531" y="475" font-size="9" fill="#1f6392" text-anchor="middle" >staw</text>
-<text x="482" y="542" font-size="9" fill="#1f6392" text-anchor="middle" >filtr</text>
-<text x="587" y="458" font-size="9" fill="#1f6392" text-anchor="middle" >rez.</text>
-<text x="643" y="447" font-size="9" fill="#4a7d46" text-anchor="start" >łąka</text>
-<text x="643" y="461" font-size="9" fill="#4a7d46" text-anchor="start" >rozsączająca</text>
 <path d="M212.0,496.0 L220.0,496.0 M216.0,492.0 L216.0,500.0" stroke="#a04" stroke-width="1"/>
 <text x="224" y="504" font-size="9" fill="#a04" text-anchor="start" >161,3</text>
 <path d="M212.0,216.0 L220.0,216.0 M216.0,212.0 L216.0,220.0" stroke="#a04" stroke-width="1"/>
@@ -68,7 +51,7 @@
 <text x="32" y="814" font-size="11" fill="#333">0</text><text x="172.0" y="814" font-size="11" fill="#333" text-anchor="end">20 m</text>
 <text x="20" y="872" font-size="17" fill="#333" font-weight="bold">Szkic sytuacyjny — działki 285/5, 285/6, 285/7 (obręb Słonowice)</text>
 <text x="20" y="894" font-size="12" fill="#555">Czerwone krzyżyki: wysokości NMT (m n.p.m.). Teren praktycznie płaski — 161,0–161,7 m, lekki spadek ku zachodowi.</text>
-<text x="20" y="912" font-size="12" fill="#555">Zieleń: zadrzewienia wg ortofotomapy (orientacyjnie). Niebieskie kontury: system wodny — rozmieszczenie orientacyjne.</text>
-<text x="20" y="930" font-size="12" fill="#555">Strzałki kropkowane: deszczówka z rynien; ciągłe: obieg pompa → filtr → strumyk → sadzawka; brązowa kropkowana: oś widokowa.</text>
+<text x="20" y="912" font-size="12" fill="#555">Zieleń: zadrzewienia wg ortofotomapy (orientacyjnie).</text>
+<text x="20" y="930" font-size="12" fill="#555">Szkic nie pokazuje zbiorników — ich pozycje ustala obejście w terenie.</text>
 <text x="20" y="952" font-size="10" fill="#999">Granice działek i obrysy budynków: ULDK/GUGiK; wysokości: NMT GUGiK; zadrzewienia: ortofotomapa geoportal.gov.pl (stan na 2026).</text>
 </svg>

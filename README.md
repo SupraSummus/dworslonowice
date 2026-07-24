@@ -4,6 +4,7 @@
 
 [Gdzie to jest](https://maps.app.goo.gl/pCdz4rifPREEBpEn9)  
 [Historia Dworu](historia.md)  
+[Woda przy dworze — koncepcja](woda-koncepcja.md) ([rozpoznanie](woda.md))  
 <kontakt@dworslonowice.pl>  
 chcesz coś tu dopisać? odwiedź [repozytorium strony](https://github.com/SupraSummus/dworslonowice)  
 
